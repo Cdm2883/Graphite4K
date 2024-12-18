@@ -15,4 +15,8 @@ dependencyResolutionManagement {
     }
 }
 
-//include(":")
+include(":seek-recorder")
+include(":video-composer")
+include(":presentation")
+include(":embedded-ui")
+include(":open-gl")
